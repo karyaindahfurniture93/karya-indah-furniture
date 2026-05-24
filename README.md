@@ -47,7 +47,7 @@
     .hero-bg {
       background-image:
         linear-gradient(to right, rgba(44,26,14,0.82) 0%, rgba(44,26,14,0.35) 55%, rgba(44,26,14,0.10) 100%),
-        url('https://images.unsplash.com/photo-1538688525198-9b88f6f53126?w=1800&q=85&auto=format&fit=crop');
+        url('https://images.unsplash.com/photo-0a68260b8a1e312bc1ca1d5cd142e12d?w=1800&q=85&auto=format&fit=crop');
       background-size: cover;
       background-position: center 40%;
     }
